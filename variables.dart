@@ -10,4 +10,7 @@ main() {
 
   print(isOn.runtimeType);
 
+  var isOff = true;
+  print(isOff.runtimeType);
+
 }
